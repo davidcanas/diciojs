@@ -1,12 +1,23 @@
 {
   "name": "diciojs",
-  "version": "1.0",
+  "version": "1.0.2",
   "description": "Uma lib para buscar palavras no dicionário da língua portuguesa.",
   "main": "src/main.js",
   "author": "davidcanas",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/davidcanas/diciojs"
+  },
+  "keywords": [
+    "dicionário",
+    "portugues",
+    "api",
+    "davidcanas",
+    "significados",
+    "palavras"
+  ],
   "license": "MIT",
   "dependencies": {
-    "axios": "^0.24.0",
-    "prettier": "^2.8.3"
+    "axios": "^0.24.0"
   }
 }
