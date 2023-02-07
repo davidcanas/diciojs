@@ -1,0 +1,12 @@
+{
+  "name": "diciojs",
+  "version": "1.0",
+  "description": "Uma lib para buscar palavras no dicionário da língua portuguesa.",
+  "main": "src/main.js",
+  "author": "davidcanas",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "prettier": "^2.8.3"
+  }
+}
